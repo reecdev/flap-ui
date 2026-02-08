@@ -1,2 +1,2 @@
 # flap-ui
-unfinished
+currently work in progress, expect real docs soon
